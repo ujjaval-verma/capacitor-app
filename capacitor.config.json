@@ -1,0 +1,11 @@
+{
+  "appId": "com.aspenfieldservices.app",
+  "appName": "asset-snapshot",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
